@@ -1,7 +1,8 @@
 #include "stdafx.h"
 #include <iostream>
 #include <string>
-#include <cstdlib>#include <ctime>
+#include <cstdlib>
+#include <ctime>
 #include <time.h>;
 
 /*
